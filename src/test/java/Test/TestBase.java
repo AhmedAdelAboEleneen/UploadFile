@@ -42,7 +42,7 @@ public class TestBase {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
         // Stage Link
-        driver.navigate().to("link Stage here");
+        driver.navigate().to("https://the-internet.herokuapp.com/upload");
 
         // Demo Link
         // driver.navigate().to("Link demo here");

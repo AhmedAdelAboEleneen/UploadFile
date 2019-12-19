@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4456d12-1a39-4971-92eb-62ccd4b71f72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/page/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/PageBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/TestBase.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +37,15 @@
   </component>
   <component name="ProjectId" id="1V13tmoNuer0WtajAAGRoEGEd4d" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559035790982" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Drag-DropFunction" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmed.adel\IdeaProjects\Web_Example\uploads file" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestBase">
+  <component name="RunManager" selected="TestNG.UploadImageTest">
     <configuration name="TestBase" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Web_Example" />
       <extension name="coverage">
@@ -92,8 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UploadImageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Web_Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.UploadImageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.UploadImageTest" />
         <item itemvalue="TestNG.TestBase" />
         <item itemvalue="TestNG.TestBase.startDriver" />
       </list>
@@ -117,7 +138,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
